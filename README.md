@@ -6,7 +6,7 @@ I try to accept your solution as fast as possible ;)
 
 ## Task
 Output the string "Hello, World!" in any form.
-
+It would be nice, if you also provide a short explanation.
 
 # Contribution Guide
 
