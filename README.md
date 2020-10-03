@@ -2,6 +2,7 @@
 Collection of shortest Hello Worlds in any language.
 
 Everyone is welcomed to add their solution.
+I try to accept your solution as fast as possible ;)
 
 ## Who can contribute
 Anyone can contribute to this repositry.
