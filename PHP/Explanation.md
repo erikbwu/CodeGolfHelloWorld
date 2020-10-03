@@ -1,0 +1,1 @@
+It works, because there's no <?php in the code, so it won't get interpreted by PHP.
