@@ -1,0 +1,2 @@
+Prints 'Hello World!' in Idris
+https://tio.run/##y0wpyiz@/z83P6U0J1XBNzEzj4srF0gqWCl4@itoaEI4tgoFpSXBJUU@eQpKHqk5OfkK5flFOSmKSv//AwA
