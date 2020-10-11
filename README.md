@@ -14,7 +14,8 @@ It would be nice, if you also provide a short explanation.
 
 ## Who can contribute
 Anyone can contribute to this repositry. Typos may be accepted too.
-You can view an example pull request here: https://github.com/KlRE/CodeGolfHelloWorld/pull/7#issue-497263592
+
+You can view an example pull request [here](https://github.com/KlRE/CodeGolfHelloWorld/pull/7#issue-497263592).
 
 ## How to contribute
 <ul>
