@@ -1,0 +1,3 @@
+The PRINT statement in Fortran can be told to operate on comma-delimited, list-directed input (*,).
+The END statement signals the end of the program.
+https://tio.run/##S8svKilKzNNNT4Mw/v8PCPL0C9HSUfJIzcnJ11EIzy/KSVFU4nL1c/n/HwA
